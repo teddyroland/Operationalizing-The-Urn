@@ -1,2 +1,2 @@
 # Operationalizing-The-Urn
-This repository supports the series of blog posts, "Operationalizing The Urn"
+This repository supports the blog series "Operationalizing The Urn," which operationalizes the close reading method in Cleanth Brooks's <em>The Well Wrought Urn</em>. In particular, this code was used to produce the findings reported in the second post, "Distant Reading a Century of Structure." These findings offer a preliminary test of Brooks's historical claims, based on the formalist features of literature he theorizes. The statistical model here is the same one that receives further exploration in the third post, "Irony (& Paradox & Ambiguity)."
