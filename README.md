@@ -3,4 +3,4 @@ This repository supports the blog series "Operationalizing The Urn," which revis
 
 The statistical model developed here receives further exploration in the third post, "Irony (& Paradox & Ambiguity)." This repository includes the lists of <em>initial</em> and <em>final</em> words dicussed there. Further output from the model can be found in the "model" folder.
 
-Unfortunately, neither the underlying corpus (due to copyright) nor the derivative document-term matrix (due to limitations of space) can be made available here. For inquiries regarding the latter, email roland [at] umail [dot] ucsb [dot] edu
+Neither the underlying corpus (due to copyright) nor the derivative document-term matrix (due to limitations of space) have been made available here. For inquiries regarding the latter, email roland [at] umail [dot] ucsb [dot] edu
